@@ -19,3 +19,6 @@ doc/
 .project
 .DS_Atore
 .idea
+
+# Ignore Paperclip uploaded files
+/public/system
